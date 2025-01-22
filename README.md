@@ -1,49 +1,65 @@
-# 👋 Hi, I'm Prince
+# Hi, This is Prince 👋
 
-Specializing in full-stack development and system administration with a strong background in Python, Java, and web development. Passionate about creating efficient technical solutions and building user-friendly applications. Available for innovative freelance projects.
+Welcome to my GitHub profile! I'm a full-stack developer from Canada 🇨🇦, passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
 
-## 🎓 Education
+## About me
+- 🎓 Education: Computer Science, Algoma University (2023 - Present)
+- 🌱 Focusing on: React, TypeScript, Cloud Computing, System Administration
+- 💬 Topics I like: Full-Stack Development, Cloud Architecture, UI/UX Design, Open Source. Let's discuss these topics!
 
-**Bachelor of Science in Computer Science**  
-Algoma University (2023 - Present) | Canada
-- AWS Cloud Computing Workshop
-- Mobile App Development Workshop
-- Tech Support Team Volunteer
+## Skills
 
-## 💻 Technical Skills
-
+### Languages & Core Technologies
 ```yaml
-Languages & Frameworks:
-  - Python | Java | TypeScript | React
-  - HTML/CSS | JavaScript
-  - SQL | Git
+Primary:
+  - Python | JavaScript/TypeScript
+  - HTML/CSS | React
+  - SQL | Java
 
-Technical Expertise:
-  - Full Stack Development
-  - Cloud Computing (AWS)
+Frameworks & Libraries:
+  - React.js | Node.js
+  - Django | Flask
+  - Express.js | TailwindCSS
+
+Infrastructure:
+  - AWS Cloud Services
+  - Git/GitHub
   - System Administration
-  - Technical Troubleshooting
-  - Database Management
+  - Database Management (SQL/NoSQL)
 
-Professional Skills:
-  - Technical Documentation
-  - Project Management
-  - Data Analysis
-  - Problem-Solving
-  - Team Collaboration
-
-Tools & Platforms:
-  - VS Code | Git | GitHub
-  - Microsoft Office Suite
+Development Tools:
+  - VS Code | Git
+  - AWS Suite
+  - Docker | CI/CD
   - CRM Systems
-  - AWS Services
 ```
 
-## 🚀 Featured Projects
+## Open Source Projects
+I enjoy building practical applications that solve real problems. Here are some of my projects:
 
-- [Interactive Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component built with React, TypeScript, and Tailwind CSS
-- [Voting Application](https://github.com/MrPrince419/voting-app) - Secure voting platform developed with Python Django and PostgreSQL
+- [Calorie Calculator](https://github.com/MrPrince419/calorie-calculator-app) - Interactive calorie tracking app with food database
+- [Calendar App](https://github.com/MrPrince419/calender-app) - Clean and efficient calendar with event management
+- [Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component with React
+- [Voting System](https://github.com/MrPrince419/voting-app) - Secure and user-friendly voting platform
+- [Social Media App](https://github.com/MrPrince419/social-media-app) - Feature-rich social networking platform
+- [Mood Music Player](https://github.com/MrPrince419/mood-based-music-player) - Innovative mood-based music recommendation system
+
+## Current Focus
+I'm currently working on:
+- Advanced React and TypeScript patterns
+- Cloud architecture and AWS services
+- System administration best practices
+- Full-stack application development
+- Open source contributions
+
+## Professional Goals
+- Expanding cloud computing expertise
+- Contributing to major open source projects
+- Building scalable web applications
+- Improving system architecture skills
+- Mastering DevOps practices
 
 ---
-💼 Open to internship and collaboration opportunities in software development and technical support roles.
+💼 Open to collaboration on innovative projects and technical discussions  
+📫 Reach out for software development opportunities  
 ⭐️ From [MrPrince419](https://github.com/MrPrince419)
