@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince
 
-I'm a Computer Science student at Algoma University with a passion for technology and problem-solving. My background combines technical expertise with strong customer service skills, making me adept at bridging the gap between technical solutions and user needs.
+Computer Science student at Algoma University specializing in full-stack development and system administration. Passionate about creating efficient technical solutions and building user-friendly applications.
 
 ## 🎓 Education
 
