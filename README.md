@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince
 
-Computer Science student at Algoma University specializing in full-stack development and system administration. Passionate about creating efficient technical solutions and building user-friendly applications.
+Specializing in full-stack development and system administration with a strong background in Python, Java, and web development. Passionate about creating efficient technical solutions and building user-friendly applications. Available for innovative freelance projects.
 
 ## 🎓 Education
 
@@ -42,6 +42,7 @@ Tools & Platforms:
 ## 🚀 Featured Projects
 
 - [Interactive Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component built with React, TypeScript, and Tailwind CSS
+- [Voting Application](https://github.com/MrPrince419/voting-app) - Secure voting platform developed with Python Django and PostgreSQL
 
 ---
 💼 Open to internship and collaboration opportunities in software development and technical support roles.
