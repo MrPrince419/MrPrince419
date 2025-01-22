@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a full-stack developer from Canada 🇨🇦, passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
 
 ## About me
-- 🎓 Education: Computer Science, Algoma University (2023 - Present)
+- 🎓 Education: Computer Science, Algoma University
 - 🌱 Focusing on: React, TypeScript, Cloud Computing, System Administration
 - 💬 Topics I like: Full-Stack Development, Cloud Architecture, UI/UX Design, Open Source. Let's discuss these topics!
 
