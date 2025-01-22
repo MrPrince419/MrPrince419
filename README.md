@@ -1,49 +1,48 @@
 # 👋 Hi, I'm Prince
 
-Computer Science student at Algoma University with experience in technical support, CRM systems, and customer service. Passionate about building user-friendly applications and solving technical challenges.
+I'm a Computer Science student at Algoma University with a passion for technology and problem-solving. My background combines technical expertise with strong customer service skills, making me adept at bridging the gap between technical solutions and user needs.
 
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Algoma University (2023 - Present)  
-- Participated in AWS Workshop
-- Completed Mobile App Development Workshop
-- Active member of Tech Support Team (Volunteer)
+Algoma University (2023 - Present) | Canada
+- AWS Cloud Computing Workshop
+- Mobile App Development Workshop
+- Tech Support Team Volunteer
 
-## 💼 Professional Experience
+## 💻 Technical Skills
 
-### IT Support Intern | Cita Marketplace
-*Feb 2024 - Jan 2025 | Canada*
-- 🔧 Provided technical support via email and chat
-- 🖥️ Managed computer systems and network setup
-- 📚 Developed and maintained IT knowledge base
+```yaml
+Languages & Frameworks:
+  - Python | Java | TypeScript | React
+  - HTML/CSS | JavaScript
+  - SQL | Git
 
-### Customer Service Representative | Mary's Place
-*Mar 2022 - Dec 2022*
-- 👥 Handled customer inquiries across multiple channels
-- ⚡ Achieved high customer satisfaction through prompt issue resolution
-- 📦 Managed online order processing and tracking
+Technical Expertise:
+  - Full Stack Development
+  - Cloud Computing (AWS)
+  - System Administration
+  - Technical Troubleshooting
+  - Database Management
 
-## 🛠️ Skills
+Professional Skills:
+  - Technical Documentation
+  - Project Management
+  - Data Analysis
+  - Problem-Solving
+  - Team Collaboration
 
-```python
-skills = {
-    'Technical': ['Technical Support', 'Troubleshooting', 'Data Analysis'],
-    'Programming': ['Python', 'Java', 'TypeScript', 'React'],
-    'Tools': ['Microsoft Office', 'CRM Systems', 'Git'],
-    'Soft Skills': ['Project Management', 'Remote Collaboration', 'Documentation']
-}
+Tools & Platforms:
+  - VS Code | Git | GitHub
+  - Microsoft Office Suite
+  - CRM Systems
+  - AWS Services
 ```
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [Interactive Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - A modern React-based shopping cart with real-time updates
-- More projects coming soon!
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](#) <!-- Add your LinkedIn profile URL -->
-- 📧 Email: <!-- Add your professional email if you'd like to share -->
+- [Interactive Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component built with React, TypeScript, and Tailwind CSS
 
 ---
+💼 Open to internship and collaboration opportunities in software development and technical support roles.
 ⭐️ From [MrPrince419](https://github.com/MrPrince419)
