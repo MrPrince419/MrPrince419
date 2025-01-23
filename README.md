@@ -1,6 +1,6 @@
 # Hi, This is Prince 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer from Canada 🇨🇦, passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
+Welcome to my GitHub profile! I'm a full-stack developer, passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
 
 ## About me
 - 🎓 Education: Computer Science, Algoma University
