@@ -41,7 +41,6 @@ I enjoy building practical applications that solve real problems. Here are some 
 - [Calendar App](https://github.com/MrPrince419/calender-app) - Clean and efficient calendar with event management
 - [Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component with React
 - [Voting System](https://github.com/MrPrince419/voting-app) - Secure and user-friendly voting platform
-- [Social Media App](https://github.com/MrPrince419/social-media-app) - Feature-rich social networking platform
 - [Mood Music Player](https://github.com/MrPrince419/mood-based-music-player) - Innovative mood-based music recommendation system
 
 ## Current Focus
