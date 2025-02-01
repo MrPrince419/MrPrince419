@@ -1,6 +1,6 @@
 # Hi, This is Prince 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer, passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
+Welcome to my GitHub profile! I'm a full-stack developer, who specializes in front-end development. I am passionate about creating efficient technical solutions and building user-friendly applications. I love contributing to open source projects and sharing knowledge with others.
 
 ## About me
 - 🎓 Education: Computer Science, Algoma University
@@ -39,8 +39,6 @@ I enjoy building practical applications that solve real problems. Here are some 
 
 - [Calorie Calculator](https://github.com/MrPrince419/calorie-calculator-app) - Interactive calorie tracking app with food database
 - [Calendar App](https://github.com/MrPrince419/calender-app) - Clean and efficient calendar with event management
-- [Shopping Cart](https://github.com/MrPrince419/shopping-cart-app) - Modern e-commerce component with React
-- [Voting System](https://github.com/MrPrince419/voting-app) - Secure and user-friendly voting platform
 - [Mood Music Player](https://github.com/MrPrince419/mood-based-music-player) - Innovative mood-based music recommendation system
 
 ## Current Focus
