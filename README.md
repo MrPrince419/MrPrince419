@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, who specializes in fro
 ## About me
 - 🎓 Education: Computer Science, Algoma University
 - 🌱 Focusing on: React, TypeScript, Cloud Computing, System Administration
-- 💬 Topics I like: Full-Stack Development, Cloud Architecture, UI/UX Design, Open Source. Let's discuss these topics!
+- 💬 Topics I like: Frontend Development, Cloud Architecture, UI/UX Design, Open Source. Let's discuss these topics!
 
 ## Skills
 
@@ -45,7 +45,6 @@ I enjoy building practical applications that solve real problems. Here are some 
 I'm currently working on:
 - Advanced React and TypeScript patterns
 - Cloud architecture and AWS services
-- System administration best practices
 - Full-stack application development
 - Open source contributions
 
@@ -54,7 +53,6 @@ I'm currently working on:
 - Contributing to major open source projects
 - Building scalable web applications
 - Improving system architecture skills
-- Mastering DevOps practices
 
 ---
 💼 Open to collaboration on innovative projects and technical discussions  
