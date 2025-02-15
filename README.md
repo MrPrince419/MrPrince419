@@ -59,5 +59,5 @@ I'm currently working on:
 
 ---
 💼 Open to collaboration on innovative projects and technical discussions  
-📫 Reach out for software development opportunities  
+📫 Reach out for opportunities or anything in general
 ⭐️ From [MrPrince419](https://github.com/MrPrince419)
