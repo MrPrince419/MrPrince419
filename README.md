@@ -41,7 +41,7 @@ Design Tools:
 I enjoy building practical applications that solve real problems. Here are some of my projects:
 
 - [Calendar App](https://github.com/MrPrince419/calender-app) - Clean and efficient calendar with event management
-- [Expense Tracker](https://github.com/MrPrince419/Expense-Tracker-Dashboard) - Finance tracker with interactive charts
+- [Expense Tracker Dashboard](https://github.com/MrPrince419/Expense-Tracker-Dashboard) - Finance tracker with interactive charts
 - [Mood Music Player](https://github.com/MrPrince419/mood-based-music-player) - Innovative mood-based music player
 
 ## Current Focus
