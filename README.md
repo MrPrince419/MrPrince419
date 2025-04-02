@@ -1,63 +1,56 @@
-# Hi, This is Prince 👋
+# Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I am a Front-end developer with a passion for creating efficient technical solutions and designing user-friendly applications. Open to job opportunities (remote, hybrid, or on-site).
+Welcome to my GitHub profile! I'm a passionate developer focused on data analytics and business automation. I enjoy creating tools that make businesses more efficient and data-driven.
 
-## About me
-- 🎓 Education: Computer Science, Algoma University
-- 🌱 Focusing on: React, TypeScript, Cloud Computing, System Administration
-- 💬 Topics I like: Frontend Development, Cloud Architecture, UI/UX Design. Let's discuss these topics!
+## About Me 🎯
+- 🎓 BSc. Computer Science student at Algoma University
+- 🌱 Learning Business Automation and Data Analytics
+- 🌍 Based in Sault Ste Marie, Canada
+- 💻 Working on automation projects and data visualization
+- 🚀 Check out my automation work at [Prince AI Automation](https://princeaiautomation.netlify.app/)
 
-## Skills
+## 🛠️ Tech Stack
 
-### Languages & Core Technologies
 ```yaml
-Primary:
-  - SQL | Java
-  - HTML/CSS | React
-  - Python | JavaScript/TypeScript
+Languages & Frameworks:
+  - Python, SQL, Java
+  - JavaScript/TypeScript
+  - React.js, Node.js
+  - HTML/CSS
 
-Frameworks & Libraries:
-  - Django | Flask
-  - React.js | Node.js
-  - Express.js | TailwindCSS
-
-Infrastructure:
-  - Git/GitHub
-  - AWS Cloud Services
-  - Database Management (SQL/NoSQL)
+Data Tools:
+  - Pandas, NumPy
+  - Power BI, Tableau
+  - PostgreSQL, MongoDB
 
 Development Tools:
-  - CRM Systems
+  - Git/GitHub
+  - VS Code
   - Docker
-  - VS Code | Git
+  - AWS Cloud Services
 
-Design Tools:
-- Canva
-- Figma
-- Adobe Creative Suite (Photoshop, Illustrator, XD)
+Design:
+  - Figma
+  - Canva
+  - UI/UX Basics
 ```
 
-## Open Source Projects
-I enjoy building practical applications that solve real problems. Here are some of my projects:
+## Current Focus 🎯
+- 📊 Building data visualization projects
+- 🤖 Creating automation solutions
+- 💻 Developing web applications
+- 📚 Learning new technologies
 
-- [Calendar App](https://github.com/MrPrince419/calender-app) - Clean and efficient calendar with event management
-- [Expense Tracker Dashboard](https://github.com/MrPrince419/Expense-Tracker-Dashboard) - Finance tracker with interactive charts
-- [Mood Music Player](https://github.com/MrPrince419/mood-based-music-player) - Innovative mood-based music player
+## Goals 🎯
+- 🚀 Contributing to open-source projects
+- 💼 Building practical automation tools
+- 📊 Expanding data analysis skills
+- 🌐 Growing my project portfolio
 
-## Current Focus
-I'm currently working on:
-- User Interface Design
-- Cloud architecture and AWS services
-- Full-stack application development
-- Advanced React and TypeScript patterns
+## Let's Connect! 🤝
+- 📫 Reach me at:
+  - [LinkedIn](https://www.linkedin.com/in/prince05/)
+  - [Email](mailto:uwagboe.o.p@gmail.com)
+  - [Automation Portfolio](https://princeaiautomation.netlify.app/)
 
-## Professional Goals
-- Expanding cloud computing expertise
-- Contributing to major open source projects
-- Building scalable web applications
-- Improving UI/UX skill
-
----
-💼 Open to collaboration on innovative projects and technical discussions  
-📫 Reach out for opportunities or anything in general  
-⭐️ From [MrPrince419](https://github.com/MrPrince419)
+*Always eager to learn and collaborate on interesting projects!*
