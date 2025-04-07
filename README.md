@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a data analytics and automation enthusiast, transformi
 - 🎓 BSc Computer Science Student at Algoma University
 - 💡 Data Analytics & Business Automation Specialist
 - 🌍 Based in Sault Ste Marie, Canada
-- 💼 Founder of [Prince AI Automation](https://princeaiautomation.netlify.app/)
+- 💼 Founder of [ClosR Automation](https://closrautomation.netlify.app/)
 
 [![GitHub](https://img.shields.io/github/followers/MrPrince419?label=Follow&style=social)](https://github.com/MrPrince419)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prince05/)
