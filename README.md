@@ -48,7 +48,7 @@ Open to opportunities, collaborations, and knowledge sharing!
 ### Contact 📫
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince05/)
 - 📧 [Email](mailto:uwagboe.o.p@gmail.com)
-- 🚀 [Prince AI Automation](https://princeaiautomation.netlify.app/)
+- 🚀 [ClosR Automation](https://closrautomation.netlify.app/)
 
 ### Available For:
 - 💡 Job Opportunities
