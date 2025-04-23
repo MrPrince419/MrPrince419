@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on data analyti
 ## 🛠️ Tech Stack
 
 yaml
+
 Languages & Frameworks:
   - Python, SQL, Java
   - JavaScript/TypeScript
