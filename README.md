@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 
 ## 🛠️ Tech Stack
 
-```yaml
 ### 👨‍💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
@@ -47,7 +46,6 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 ### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-```
 
 ## Current Focus 🎯
 - 📊 Building data visualization projects
