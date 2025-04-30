@@ -50,8 +50,11 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrince419&layout=compact&theme=radical)
+```markdown
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrince419&layout=compact&theme=radical" alt="Top Langs" style="max-width: 100%; height: auto;">
+</div>
+```
 
 ## Current Focus 🎯
 - 📊 Building data visualization projects
@@ -67,6 +70,4 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 
 ## Let's Connect! 🤝
 - 📫 Reach me at:
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince05/)
-  - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:princeuwagboe44@outlook.com)
-  - [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prince-uwagboe.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince05/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:princeuwagboe44@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prince-uwagboe.netlify.app/)
