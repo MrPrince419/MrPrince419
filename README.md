@@ -1,7 +1,6 @@
 # Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I'm a data analytics and business automation enthusiast. I enjoy visualizing data, creating dashboards and tools to drive data driven decisions and solutions.
-
+Welcome to my GitHub profile! I'm a data analytics and business automation enthusiast. I enjoy visualizing data, creating dashboards and tools to drive data driven decisions and solutions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
 ## About Me 🎯
 - 🎓 BSc. Computer Science at Algoma University
 - 🌱 Learning Business Automation and Data Analytics
@@ -20,6 +19,9 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=progressive-web-apps&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -41,7 +43,7 @@ Welcome to my GitHub profile! I'm a data analytics and business automation enthu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![StreamlitCloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
