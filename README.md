@@ -1,12 +1,12 @@
 # Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I'm a data analytics and business automation enthusiast. I enjoy visualizing data, creating dashboards and tools to drive data driven decisions and solutions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
+Welcome to my GitHub profile! I'm a data analytics professional and business automation enthusiast. I enjoy working with data, visualizing it, building dashboards, and creating simple tools that help drive data-driven decisions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
 ## About Me 🎯
 - 🎓 BSc. Computer Science at Algoma University
 - 🌱 Learning Business Automation and Data Analytics
 - 🌍 Based in Sault Ste Marie, Canada
-- 💻 Working on automation projects and data visualization
-- 🚀 Check out my portfolio at [Portfolio Website](https://prince-uwagboe.netlify.app/)
+- 💻 Working on data visualization and automation projects
+- 🚀 Check out my portfolio at [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prince-uwagboe.netlify.app/)
 
 ## 🛠️ Tech Stack
 
