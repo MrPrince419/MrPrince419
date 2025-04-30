@@ -1,38 +1,52 @@
 # Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I'm a data analytics and business automation enthusiast. I enjoy creating tools that make businesses more efficient and data-driven.
+Welcome to my GitHub profile! I'm a data analytics and business automation enthusiast. I enjoy visualizing data, creating dashboards and tools to drive data driven decisions and solutions.
 
 ## About Me 🎯
-- 🎓 BSc. Computer Science student at Algoma University
+- 🎓 BSc. Computer Science at Algoma University
 - 🌱 Learning Business Automation and Data Analytics
 - 🌍 Based in Sault Ste Marie, Canada
 - 💻 Working on automation projects and data visualization
-- 🚀 Check out my automation work at [Prince AI Automation](https://paautomation.netlify.app/)
+- 🚀 Check out my portfolio at [Portfolio Website](https://prince-uwagboe.netlify.app/)
 
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages & Frameworks:
-  - Python, SQL, Java
-  - JavaScript/TypeScript
-  - React.js, Node.js
-  - HTML/CSS
+### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-Data Tools:
-  - Tableau
-  - Power BI
-  - Excel
-  - MongoDB
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![RapidFuzz](https://img.shields.io/badge/RapidFuzz-grey?style=flat)
+![ydata-profiling](https://img.shields.io/badge/ydata--profiling-black?style=flat)
+![Sweetviz](https://img.shields.io/badge/Sweetviz-orange?style=flat)
 
-Development Tools:
-  - Git/GitHub
-  - VS Code
-  - Streamlit
+### ⚙️ Automation & APIs
+![Requests](https://img.shields.io/badge/Requests-000000?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-yellow?style=flat)
+![APIs](https://img.shields.io/badge/API-007ACC?style=flat&logo=graphql&logoColor=white)
 
-Design:
-  - Figma
-  - Canva
-  - UI/UX Basics
+### 🧰 Dev & Deployment Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![StreamlitCloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ```
 
 ## Current Focus 🎯
@@ -51,6 +65,6 @@ Design:
 - 📫 Reach me at:
   - [LinkedIn](https://www.linkedin.com/in/prince05/)
   - [Email](mailto:princeuwagboe44@outlook.com)
-  - [Automation Portfolio](https://paautomation.netlify.app/)
+  - [Portfolio](https://prince-uwagboe.netlify.app/)
 
 *Always eager to learn and collaborate on interesting projects!*
