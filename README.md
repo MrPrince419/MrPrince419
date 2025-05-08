@@ -1,6 +1,6 @@
 # Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I'm a data analytics professional and business automation enthusiast. I enjoy working with data, visualizing it, building dashboards, and creating simple tools that help drive data-driven decisions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
+Welcome to my GitHub profile! I'm a data analyst and automation enthusiast. I enjoy working with data, visualizing it, building dashboards, and creating simple tools that help drive data-driven decisions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
 ## About Me 🎯
 - 🎓 BSc. Computer Science at Algoma University
 - 🌱 Learning Business Automation and Data Analytics
