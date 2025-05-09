@@ -1,12 +1,12 @@
 # Hi, I'm Prince! 👋
 
-Welcome to my GitHub profile! I'm a data analytics professional and business automation enthusiast. I enjoy working with data, visualizing it, building dashboards, and creating simple tools that help drive data-driven decisions. I’m actively job hunting, even if there’s a small chance I’m a fit, don’t hesitate to reach out!
+Welcome to my GitHub profile! I'm a data analytics professional and business automation enthusiast. I enjoy working with data, visualizing it, building dashboards, and creating simple tools that help drive data-driven decisions. I'm actively job hunting, even if there's a small chance I'm a fit, don't hesitate to reach out!
 ## About Me 🎯
 - 🎓 BSc. Computer Science at Algoma University
 - 🌱 Learning Business Automation and Data Analytics
 - 🌍 Based in Sault Ste Marie, Canada
 - 💻 Working on data visualization and automation projects
-- 🚀 Check out my portfolio at [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prince-uwagboe.netlify.app/)
+- 🚀 Check out my portfolio at [![Portfolio](https://img.shields.io/badge/Portfolio-4B8BBE?style=flat&logo=briefcase&logoColor=white)](https://datascienceportfol.io/princeuwagboe44)
 
 ## 🛠️ Tech Stack
 
@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a data analytics professional and business aut
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=progressive-web-apps&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -67,4 +65,4 @@ Welcome to my GitHub profile! I'm a data analytics professional and business aut
 - 🌐 Growing my project portfolio
 
 ## Let's Connect! 🤝
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince05/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:princeuwagboe44@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prince-uwagboe.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince05/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:princeuwagboe44@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-4B8BBE?style=flat&logo=briefcase&logoColor=white)](https://datascienceportfol.io/princeuwagboe44)
