@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a data analyst and automation enthusiast. I en
 - 🌱 Learning Business Automation and Data Analytics
 - 🌍 Based in Sault Ste Marie, Canada
 - 💻 Working on data visualization and automation projects
-- 🚀 Check out my portfolio at [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](datascienceportfol.io/princeuwagboe44)
+- 🚀 Check out my portfolio at [![Portfolio]](datascienceportfol.io/princeuwagboe44)
 
 ## 🛠️ Tech Stack
 
